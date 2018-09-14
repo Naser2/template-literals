@@ -1,3 +1,3 @@
 Exploring Template Literal Basic
 
-WIP
+WIP loading...
